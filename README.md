@@ -19,9 +19,8 @@ Two datasets were used:
 
 | Dataset | Features | Accuracy |
 |---------|----------|----------|
-| Dataset 1 (limited) | 5,000 | 96.32% |
-| Dataset 1 (full) | 163,224 | 96.54% |
-| Dataset 2 | 38,803 | **99.12%** |
+| Dataset 1 (limited) | 50,000 | 96.65% |
+| Dataset 2 | 38,803 | 99.12% |
 
 ## 🛠️ Installation
 
